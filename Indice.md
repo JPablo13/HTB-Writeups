@@ -18,7 +18,8 @@ Este índice se divide en dos secciones: máquinas y desafíos, agrupadas por ca
 | 1 | LinkVortex   | 🐧 Linux           | Facil     | [LinkVortex](https://medium.com/@pablo13villalobos/hack-the-box-machine-linkvortex-walkthrough-es-761f4ef0d36e)  | ✅ Publicado       |
 | 2 | Administrator| 🪟 Windows         | Medio     | [Administrator](https://medium.com/@pablo13villalobos/hack-the-box-machine-administrator-walkthrough-es-c53794c9c05d)  | ✅ Publicado |
 | 3 | Hospital     | 🪟 Windows         | Medio     | [Hospital](https://medium.com/@pablo13villalobos/hack-the-box-machine-hospital-walkthrough-es-541055f94cdf)         | ✅ Publicado    |
-| 4 | Cap          | 🐧 Linux           | Facil     | *(Próximamente)*                                                                                                 |  🚧 En progreso    |
+| 4 | Cap          | 🐧 Linux           | Facil     | [Cap](https://medium.com/@pablo13villalobos/hack-the-box-machine-cap-walkthrough-es-d382087fcaa2)                  |  ✅ Publicado    |
+| 5 | Lame         | 🐧 Linux           | Facil     |    *(Próximamente)*                                                                                              |  🚧 En progreso    |
 
 ---
 
