@@ -13,12 +13,12 @@ This index is divided into two sections: **_machines_** and **_challenges_**, gr
 
 ## 💻Machines
 
-| N° | Name         | Operating System | Difficulty | Write-Up                                                                                           | Status                            |
-|----|--------------|------------------|------------|----------------------------------------------------------------------------------------------------|-----------------------------------|
-| 1  | LinkVortex   | 🐧 Linux        | Easy       | [LinkVortex](https://medium.com/@pablo13villalobos/hack-the-box-machine-linkvortex-walkthrough-en-5d467f2eec8b) | ✅ Published         |
-| 2  | Administrator| 🪟 Windows      | Medium     | [Administrator](https://medium.com/@pablo13villalobos/hack-the-box-machine-administrator-walkthrough-en-588555159e0c)| ✅ Published    |
-| 3  | Hospital     | 🪟 Windows      | Medium     | [Hospital](https://medium.com/@pablo13villalobos/hack-the-box-machine-hospital-walkthrough-en-3e4adcdde175)          | ✅ Published    |
-| 4  | Cap          | 🐧 Linux        | Easy       | *(Coming soon)*                                                                                                      | 🚧 In progress  |
+| N° | Name         | Operating System | Difficulty | Write-Up                                                                                           | Status          |
+|----|--------------|------------------|------------|----------------------------------------------------------------------------------------------------|-----------------|
+| 1  | LinkVortex   | 🐧 Linux         | Easy       | <a href="https://medium.com/@pablo13villalobos/hack-the-box-machine-linkvortex-walkthrough-en-5d467f2eec8b" target="_blank">LinkVortex</a> | ✅ Published     |
+| 2  | Administrator| 🪟 Windows       | Medium     | <a href="https://medium.com/@pablo13villalobos/hack-the-box-machine-administrator-walkthrough-en-588555159e0c" target="_blank">Administrator</a> | ✅ Published  |
+| 3  | Hospital     | 🪟 Windows       | Medium     | <a href="https://medium.com/@pablo13villalobos/hack-the-box-machine-hospital-walkthrough-en-3e4adcdde175" target="_blank">Hospital</a> | ✅ Published  |
+| 4  | Cap          | 🐧 Linux         | Easy       | *(Coming soon)*                                                                                                      | 🚧 In progress  |
 
 ---
 
