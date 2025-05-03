@@ -18,7 +18,7 @@ This index is divided into two sections: **_machines_** and **_challenges_**, gr
 | 1  | LinkVortex   | 🐧 Linux        | Easy       | [LinkVortex](https://medium.com/@pablo13villalobos/hack-the-box-machine-linkvortex-walkthrough-en-5d467f2eec8b)      | ✅ Published    |
 | 2  | Administrator| 🪟 Windows      | Medium     | [Administrator](https://medium.com/@pablo13villalobos/hack-the-box-machine-administrator-walkthrough-en-588555159e0c)| ✅ Published    |
 | 3  | Hospital     | 🪟 Windows      | Medium     | [Hospital](https://medium.com/@pablo13villalobos/hack-the-box-machine-hospital-walkthrough-en-3e4adcdde175)          | ✅ Published    |
-| 4  | Cap          | 🐧 Linux        | Easy       | *(Coming soon)*                                                                                                      | 🚧 In progress  |
+| 4  | Cap          | 🐧 Linux        | Easy       | [Cap](https://medium.com/@pablo13villalobos/hack-the-box-machine-cap-walkthrough-en-97895f9b621b)                    | ✅ Published    |
 | 5  | Lame         | 🐧 Linux        | Easy       | *(Coming soon)*                                                                                                      | 🚧 In progress  |
 
 ---
