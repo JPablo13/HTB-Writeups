@@ -5,7 +5,7 @@
 Aquí encontrarás un índice bien estructurado con enlaces directos a los artículos que he publicado en Medium.  
 Espero que el contenido te sea útil y te acompañe en tu camino de aprendizaje. ¡Mucho éxito en este emocionante viaje por la ciberseguridad!  
 📂 [Índice de Write-Ups (ES)](https://github.com/JPablo13/HTB-Writeups/blob/main/Indice.md)  
-📝 O visita la lista de WriteUps en mi Medium: [WriteUps en Español](https://medium.com/@pablo13villalobos/list/writeups-en-espanol-71dfad920654)
+📝 O visita la lista de WriteUps en mi Medium: [WriteUps en Español](https://medium.com/@jpablo13/list/writeups-en-espanol-71dfad920654)
 
 ### [EN]
 **Welcome to my repository of Hack The Box WriteUps!**
@@ -13,7 +13,7 @@ Here you'll find a well-structured index with direct links to the articles I've 
 I hope you find the content useful and that it supports you on your learning journey.   
 Best of luck on this exciting journey through cybersecurity!   
 📂 [Write-Ups Index (EN)](https://github.com/JPablo13/HTB-Writeups/blob/main/Index.md)  
-📝 Or visit my Medium profile directly.: [JPablo13](https://medium.com/@pablo13villalobos)
+📝 Or visit my Medium profile directly.: [JPablo13](https://medium.com/@jpablo13)
 
 
 ---
