@@ -8,10 +8,13 @@ This index is divided into two sections: **_machines_** and **_challenges_**, gr
 ## 📑 Quick Navigation
 - [💻Machines](#machines)
 - [🧩Challenges](#challenges)
+- [🛠️Hacking Tools](#%EF%B8%8Fhacking-tools)
 
 ---
 
 ## 💻Machines
+
+📌 Before you begin, I recommend reading the [Initial Methodology for Hack The Box Machines](https://medium.com/@jpablo13/initial-methodology-for-hack-the-box-machines-59c0c6b1f8b1)
 
 | N° | Name         | Operating System | Difficulty | Write-Up                                                                                           | Status                            |
 |----|--------------|------------------|------------|----------------------------------------------------------------------------------------------------|-----------------------------------|
@@ -32,3 +35,12 @@ This index is divided into two sections: **_machines_** and **_challenges_**, gr
 | 3  | OnlyHacks    | 🌐 Web       | Very Easy  | [OnlyHacks](https://medium.com/@pablo13villalobos/hack-the-box-challenge-onlyhacks-walkthrough-en-94ed01a7be94)   | ✅ Published |
 | 4  | SpookyPass   | 🔍 Reversing | Very Easy  | [SpookyPass](https://medium.com/@pablo13villalobos/hack-the-box-challenge-spookypass-walkthrough-en-38ed87dae169) | ✅ Published | 
 | 5  | Armaxis      | 🌐 Web       | Very Easy  |   *(Coming soon)*                                                                                               | 🚧 In progress |
+
+---
+
+## 🛠️Hacking Tools
+
+| N° | Title                            | Tool       | Level    | Link                                                                                           | Status         |
+|----|----------------------------------|------------|----------|------------------------------------------------------------------------------------------------|----------------|
+| 1  | Nmap Getting Started Guide       | Nmap       | Beginner | *(Coming Soon)*                                                                                | 🚧 In Progress |
+| 2  | Burp Suite Getting Started Guide | Burp Suite | Beginner | *(Coming Soon)*                                                                                | 🚧 In Progress |
