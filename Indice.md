@@ -42,5 +42,5 @@ Este índice se divide en dos secciones: máquinas y desafíos, agrupadas por ca
 
 | N° | Título                     | Herramienta  | Nivel        | Enlace                                                                                               | Estado         |
 |----|----------------------------|--------------|--------------|------------------------------------------------------------------------------------------------------|----------------|
-| 1  | Guía inicial de Nmap       | Burp Suite   | Principiante |    *(Próximamente)*                                                                              |   🚧 En progreso   |
-| 2  | Guía inicial de Burp Suite | Nmap         | Principiante |    *(Próximamente)*                                                                              |   🚧 En progreso   |
+| 1  | Guía inicial de Nmap       | Nmap         | Principiante |    *(Próximamente)*                                                                              |   🚧 En progreso   |
+| 2  | Guía inicial de Burp Suite | Burp Suite   | Principiante |    *(Próximamente)*                                                                              |   🚧 En progreso   |
