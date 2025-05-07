@@ -16,13 +16,14 @@ Este índice se divide en dos secciones: máquinas y desafíos, agrupadas por ca
 
 📌 Antes de comenzar, te recomiendo leer la [Metodología Inicial para Máquinas de Hack The Box](https://medium.com/@jpablo13/metodolog%C3%ADa-inicial-para-m%C3%A1quinas-de-hack-the-box-16620d22c0a2)
 
-| N° | Nombre       | Sistema Operativo  | Dificultad | Write-Up                                                                                                       | Estado               |
-|----|--------------|--------------------|------------|----------------------------------------------------------------------------------------------------------------|----------------------|
+| N° | Nombre       | Sistema Operativo  | Dificultad | Write-Up                                                                                                         | Estado             |
+|----|--------------|--------------------|------------|------------------------------------------------------------------------------------------------------------------|--------------------|
 | 1  | LinkVortex   | 🐧 Linux           | Facil     | [LinkVortex](https://medium.com/@pablo13villalobos/hack-the-box-machine-linkvortex-walkthrough-es-761f4ef0d36e)  | ✅ Publicado       |
 | 2  | Administrator| 🪟 Windows         | Medio     | [Administrator](https://medium.com/@pablo13villalobos/hack-the-box-machine-administrator-walkthrough-es-c53794c9c05d)  | ✅ Publicado |
-| 3  | Hospital     | 🪟 Windows         | Medio     | [Hospital](https://medium.com/@pablo13villalobos/hack-the-box-machine-hospital-walkthrough-es-541055f94cdf)         | ✅ Publicado    |
+| 3  | Hospital     | 🪟 Windows         | Medio     | [Hospital](https://medium.com/@pablo13villalobos/hack-the-box-machine-hospital-walkthrough-es-541055f94cdf)        |  ✅ Publicado    |
 | 4  | Cap          | 🐧 Linux           | Facil     | [Cap](https://medium.com/@pablo13villalobos/hack-the-box-machine-cap-walkthrough-es-d382087fcaa2)                  |  ✅ Publicado    |
-| 5  | Lame         | 🐧 Linux           | Facil     |    *(Próximamente)*                                                                                              |  🚧 En progreso    |
+| 5  | Lame         | 🐧 Linux           | Facil     | [Lame](https://medium.com/@jpablo13/hack-the-box-machine-lame-walkthrough-es-0225d6f72376)                         |  ✅ Publicado    |
+| 6  | Strutted     | 🐧 Linux           | Media     |    *(Próximamente)*                                                                                              |  🚧 En progreso    |
 
 ---
 
