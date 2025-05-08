@@ -33,15 +33,15 @@ Este índice se divide en dos secciones: máquinas y desafíos, agrupadas por ca
 |----|--------------|--------------|------------|------------------------------------------------------------------------------------------------------------------|-----------------|
 | 1  | Flag Command | 🌐 Web       | Muy Facil  | [Flag Command](https://medium.com/@pablo13villalobos/hack-the-box-flag-command-walkthrough-es-4c4e26521d61)      | ✅ Publicado   |
 | 2  | Spookifier   | 🌐 Web       | Muy Facil  | [Spookifier](https://medium.com/@pablo13villalobos/hack-the-box-spookifier-walkthrough-es-6c1fef95d1fe)          | ✅ Publicado   |
-| 3  | OnlyHacks    | 🌐 Web       | Muy Facil  | [OnlyHacks](https://medium.com/@pablo13villalobos/hack-the-box-challenge-onlyhacks-walkthrough-es-b33ba8154703)  | ✅ Published   |
-| 4  | SpookyPass   | 🔍 Reversing | Muy Facil  | [SpookyPass](https://medium.com/@pablo13villalobos/hack-the-box-challenge-spooky-passwalkthrough-es-a9562d00a6cb)| ✅ Publishe    |
+| 3  | OnlyHacks    | 🌐 Web       | Muy Facil  | [OnlyHacks](https://medium.com/@pablo13villalobos/hack-the-box-challenge-onlyhacks-walkthrough-es-b33ba8154703)  | ✅ Publicado   |
+| 4  | SpookyPass   | 🔍 Reversing | Muy Facil  | [SpookyPass](https://medium.com/@pablo13villalobos/hack-the-box-challenge-spooky-passwalkthrough-es-a9562d00a6cb)| ✅ Publicado   |
 | 5  | Armaxis      | 🌐 Web       | Muy Facil  |   *(Próximamente)*                                                                                               | 🚧 En progreso |
 
 ---
 
 ## 🛠️Herramientas Hacking
 
-| N° | Título                     | Herramienta  | Nivel        | Enlace                                                                                           |    Estado         |
-|----|----------------------------|--------------|--------------|--------------------------------------------------------------------------------------------------|-------------------|
-| 1  | Guía inicial de Nmap       | Nmap         | Principiante |    *(Próximamente)*                                                                              |  🚧 En progreso   |
-| 2  | Guía inicial de Burp Suite | Burp Suite   | Principiante |    *(Próximamente)*                                                                              |  🚧 En progreso   |
+| N° | Título              | Herramienta  | Nivel        | Enlace                                                                                                                |    Estado         |
+|----|---------------------|--------------|--------------|-----------------------------------------------------------------------------------------------------------------------|-------------------|
+| 1  | Guía de Nmap        | Nmap         | Principiante |  [Nmap](https://medium.com/@jpablo13/gu%C3%ADa-de-nmap-el-escaneo-de-puertos-es-solo-el-comienzo-b2418934e4b1)        |   ✅ Publicado    |
+| 2  | Guía de Burp Suite  | Burp Suite   | Principiante |    *(Próximamente)*                                                                                                   |  🚧 En progreso   |
