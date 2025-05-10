@@ -23,7 +23,9 @@ Este índice se divide en dos secciones: máquinas y desafíos, agrupadas por ca
 | 3  | Hospital     | 🪟 Windows         | Media     | [Hospital](https://medium.com/@pablo13villalobos/hack-the-box-machine-hospital-walkthrough-es-541055f94cdf)          | ✅ Publicado   |
 | 4  | Cap          | 🐧 Linux           | Facil     | [Cap](https://medium.com/@pablo13villalobos/hack-the-box-machine-cap-walkthrough-es-d382087fcaa2)                    | ✅ Publicado   |
 | 5  | Lame         | 🐧 Linux           | Facil     | [Lame](https://medium.com/@jpablo13/hack-the-box-machine-lame-walkthrough-es-0225d6f72376)                           | ✅ Publicado   |
-| 6  | Strutted     | 🐧 Linux           | Media     |    *(Próximamente)*                                                                                                  | 🚧 En progreso |
+| 6  | Strutted     | 🐧 Linux           | Media     | [Strutted](https://medium.com/@jpablo13/hack-the-box-machine-strutted-walkthrough-es-d8609b1fe6b0)                   | ✅ Publicado   |
+| 7  | UnderPass    | 🐧 Linux           | Facíl     |   *(Próximamente)*                                                                                                   | 🚧 En progreso |
+| 8  | Mirai        | 🐧 Linux           | Facíl     |   *(Próximamente)*                                                                                                   | 🚧 En progreso |
 
 ---
 
@@ -44,4 +46,5 @@ Este índice se divide en dos secciones: máquinas y desafíos, agrupadas por ca
 | N° | Título              | Herramienta  | Nivel        | Enlace                                                                                                                |    Estado         |
 |----|---------------------|--------------|--------------|-----------------------------------------------------------------------------------------------------------------------|-------------------|
 | 1  | Guía de Nmap        | Nmap         | Principiante |  [Nmap](https://medium.com/@jpablo13/gu%C3%ADa-de-nmap-el-escaneo-de-puertos-es-solo-el-comienzo-b2418934e4b1)        |   ✅ Publicado    |
-| 2  | Guía de Burp Suite  | Burp Suite   | Principiante |    *(Próximamente)*                                                                                                   |  🚧 En progreso   |
+| 2  | Guía de Burp Suite  | Burp Suite   | Principiante |  [Burp Suite](https://medium.com/@jpablo13/gu%C3%ADa-de-burp-suite-para-hacking-%C3%A9tico-313c130ab349)              |   ✅ Publicado    |                       
+| 3  | Guía de Gobuster    | Gobuster     | Principiante |    *(Próximamente)*                                                                                                   |  🚧 En progreso   |
