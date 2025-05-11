@@ -23,7 +23,8 @@ This index is divided into two sections: **_machines_** and **_challenges_**, gr
 | 3  | Hospital     | 🪟 Windows      | Medium     | [Hospital](https://medium.com/@pablo13villalobos/hack-the-box-machine-hospital-walkthrough-en-3e4adcdde175)          | ✅ Published    |
 | 4  | Cap          | 🐧 Linux        | Easy       | [Cap](https://medium.com/@pablo13villalobos/hack-the-box-machine-cap-walkthrough-en-97895f9b621b)                    | ✅ Published    |
 | 5  | Lame         | 🐧 Linux        | Easy       | [Lame](https://medium.com/@jpablo13/hack-the-box-machine-lame-walkthrough-en-a35ffd590aff)                           | ✅ Published    |
-| 6  | Strutted     | 🐧 Linux        | Medium     | *(Coming soon)*                                                                                                      | 🚧 In progress  |
+| 6  | Strutted     | 🐧 Linux        | Medium     | [Strutted](https://medium.com/@jpablo13/hack-the-box-machine-strutted-walkthrough-en-aa5db47d0e95)                   | ✅ Published    |
+
 
 ---
 
@@ -44,4 +45,4 @@ This index is divided into two sections: **_machines_** and **_challenges_**, gr
 | N° | Title            | Tool       | Level    | Link                                                                                              | Status          |
 |----|------------------|------------|----------|---------------------------------------------------------------------------------------------------|-----------------|
 | 1  | Nmap Guide       | Nmap       | Beginner | [Nmap](https://medium.com/@jpablo13/nmap-guide-port-scanning-is-just-the-beginning-0d60ebba5987)  |  ✅ Published  |
-| 2  | Burp Suite Guide | Burp Suite | Beginner | *(Coming Soon)*                                                                                   | 🚧 In Progress |
+| 2  | Burp Suite Guide | Burp Suite | Beginner | [Burp Suite](https://medium.com/@jpablo13/burp-suite-guide-to-ethical-hacking-b47cf56fe638)       |  ✅ Published  |
